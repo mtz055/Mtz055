@@ -1,16 +1,36 @@
-## Hi there 👋
+#  🧑‍💻 MTz055
 
-<!--
-**mtz055/Mtz055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`desenvolveor aprendiz`**
 
-Here are some ideas to get you started:
+Me chamo Mateus Henrique Brito Da Silva, tenho 20 anos e sou de São Paulo ( Osasco).
+Conclui o ensino medio na escola Nossa Senhora Dos Remedios, e atualmente estou cursando (ADS)Analise e Desenvolvimento de software na faculdade Anhanguera em Osasco . Sou apaixonaddo por tecnologia e procuro aprender e estudar linguagens de programção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
